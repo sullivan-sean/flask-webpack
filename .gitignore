@@ -8,3 +8,4 @@ example/react_app/webpack-stats.json
 
 build/
 flask_webpack_js.egg-info
+dist/
