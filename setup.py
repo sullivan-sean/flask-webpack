@@ -6,15 +6,18 @@ Integration of flask with webpack through jinja
 """
 from setuptools import setup
 
+with open('README.md', 'r') as fh:
+    long_description = fh.read()
+
 setup(
     name='Flask-Webpack',
-    version='1.0',
-    url='http://example.com/flask-webpack/',
+    version='0.1.0',
+    url='https://github.com/sullivan-sean/flask-webpack',
     license='BSD',
     author='Sean Sullivan',
     author_email='ssullivan61198@gmail.com',
     description='Use webpack bundles in flask jinja templates',
-    long_description=__doc__,
+    long_description=long_description,
     py_modules=['flask_webpack'],
     zip_safe=False,
     include_package_data=True,
