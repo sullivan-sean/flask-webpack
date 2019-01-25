@@ -5,3 +5,6 @@ example/static/*
 example/react_app/node_modules/
 example/react_app/package-lock.json
 example/react_app/webpack-stats.json
+
+build/
+flask_webpack_js.egg-info
