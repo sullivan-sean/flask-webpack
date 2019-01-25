@@ -43,4 +43,4 @@ An example of usage can be found in this repository. To run it, clone the reposi
 
 ### Hot Reloading
 
-Using [webpack-dev-server](https://github.com/webpack/webpack-dev-server) in your webpack config can enable hot reloading. This is also demonstrated in the example folder with a different webpack config file
+Using [webpack-dev-server](https://github.com/webpack/webpack-dev-server) in your webpack config can enable hot reloading. This is also demonstrated in the example folder using the `webpack-hot.config.js` configuration and the `run_hot.sh` script
