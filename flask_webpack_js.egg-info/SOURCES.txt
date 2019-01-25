@@ -1,0 +1,9 @@
+README.md
+flask_webpack_js.py
+setup.py
+flask_webpack_js.egg-info/PKG-INFO
+flask_webpack_js.egg-info/SOURCES.txt
+flask_webpack_js.egg-info/dependency_links.txt
+flask_webpack_js.egg-info/not-zip-safe
+flask_webpack_js.egg-info/requires.txt
+flask_webpack_js.egg-info/top_level.txt
